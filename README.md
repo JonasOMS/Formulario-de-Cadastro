@@ -6,7 +6,6 @@ Este projeto é um formulário de cadastro responsivo desenvolvido com HTML5 e C
 
 ![form-preview](assets/img/preview.png)  
 
-
 ## 🚀 Funcionalidades
 
 - Layout moderno com Flexbox
