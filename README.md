@@ -4,7 +4,7 @@ Este projeto é um formulário de cadastro responsivo desenvolvido com HTML5 e C
 
 ## 📸 Prévia do Projeto
 
-![form-preview](assets/img/preview)  
+![form-preview](assets/img/preveiw.png)  
 
 ## 🚀 Funcionalidades
 
